@@ -1,2 +1,2 @@
 # PANDAS
-Proyecto que se realiazo con Pandas y Prophet en Python
+Proyecto que se realizo con Pandas y Prophet en Python
